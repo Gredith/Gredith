@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Gredith a student of informatic engineering
+<h1>About me...</h1>
+- 👋 Hi, I’m @Gredith a student of informatic engineering 🖥️
 - 👀 I’m interested in learn and explore this world of programation
 - 🌱 I’m currently learning C++ like a university course
 - 💞️ I’m looking to collaborate on basic programs to continue learning and get better
